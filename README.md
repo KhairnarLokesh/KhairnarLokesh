@@ -1,20 +1,20 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=2000&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Lokesh+Khairnar;MERN+Stack+Developer;Java+%7C+DSA />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=2000&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Lokesh+Khairnar;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast" />
 </h1>
-
-
 
 <!-- Banner -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="600"/>
 </p>
 
+
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khairnarlokesh&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/khairnarlokesh?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=khairnarlokesh&label=Profile+Views&color=0EA5E9&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/khairnarlokesh?color=0EA5E9&style=flat-square" />
 </p>
+
 
 ---
 
@@ -59,15 +59,14 @@
 
 ---
 
-
----
-
 ## 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=khairnarlokesh&theme=dracula&no-frame=true&margin-w=15" />
 </p>
 
 ---
+
+# 📜 Inspirational Quote  
 <div align="center">
 
 <table>
@@ -87,4 +86,6 @@
 
 </div>
 
+---
 
+### ⭐ If you like this profile, consider giving a star to my repositories!
