@@ -38,6 +38,25 @@
 
 ---
 
+# 🧩 LeetCode Stats  
+### 🔥 My Competitive Coding Progress
+
+<div align="center">
+
+<!-- Badges -->
+<img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" />
+
+<!-- Alt Designs -->
+<!-- 
+https://leetcard.jacoblin.cool/<username>?theme=dark
+https://leetcard.jacoblin.cool/<username>?theme=unicorn
+https://leetcard.jacoblin.cool/<username>?ext=heatmap
+-->
+
+</div>
+
+---
+
 ## 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,react,nodejs,express,mongodb,mysql,bootstrap" />
@@ -65,7 +84,7 @@
 ---
 
 ## 🧠 Fun Fact  
-> “Consistency always beats intensity!”
+> “Consistency beats intensity — every single time.”
 
 ---
 
