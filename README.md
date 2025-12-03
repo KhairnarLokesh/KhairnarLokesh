@@ -68,10 +68,10 @@
 </p>
 
 ---
-
-## 🧠 Fun Fact  
-> “Consistency beats intensity — every single time.”
-
----
-
+{
+  "author": "Albert Einstein",
+  "text": "I have no special talent. I am only passionately curious.",
+  "source": "https://www.goodreads.com/quotes/11458",
+  "tags": "talent, curious, curiosity, passion"
+},
 ### ⭐ If you like this profile, consider giving a star to my repositories!
