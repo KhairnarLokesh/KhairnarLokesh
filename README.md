@@ -4,7 +4,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="[https://i.imgur.com/dZQ9lQF.gif](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)" alt="coding" width="600"/>
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="600"/>
 </p>
 
 <!-- Badges -->
@@ -43,15 +43,7 @@
 
 <div align="center">
 
-<!-- Badges -->
 <img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" />
-
-<!-- Alt Designs -->
-<!-- 
-https://leetcard.jacoblin.cool/<username>?theme=dark
-https://leetcard.jacoblin.cool/<username>?theme=unicorn
-https://leetcard.jacoblin.cool/<username>?ext=heatmap
--->
 
 </div>
 
