@@ -68,10 +68,23 @@
 </p>
 
 ---
-{
-  "author": "Albert Einstein",
-  "text": "I have no special talent. I am only passionately curious.",
-  "source": "https://www.goodreads.com/quotes/11458",
-  "tags": "talent, curious, curiosity, passion"
-},
-### ⭐ If you like this profile, consider giving a star to my repositories!
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="
+        background: linear-gradient(135deg, #0ea5e9, #4c8eda);
+        padding: 20px;
+        border-radius: 12px;
+        color: white;
+        font-size: 18px;
+        font-weight: 600;">
+      “In the middle of difficulty lies opportunity.”  
+      <br/>— Albert Einstein
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
