@@ -59,15 +59,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khairnarlokesh&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khairnarlokesh&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairnarlokesh&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
