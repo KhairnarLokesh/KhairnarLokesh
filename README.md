@@ -1,4 +1,3 @@
-
 <!-- Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=2000&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Lokesh+Khairnar;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast" />
@@ -9,13 +8,23 @@
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding" width="600"/>
 </p>
 
+<!-- Music Section -->
+<h2 align="center">🎧 Coding Vibes</h2>
+
+<p align="center">
+  <iframe style="border-radius:12px"
+    src="https://open.spotify.com/embed/track/TRACK_ID"
+    width="80%" height="152"
+    frameBorder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
+  </iframe>
+</p>
 
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khairnarlokesh&label=Profile+Views&color=0EA5E9&style=flat-square" />
   <img src="https://img.shields.io/github/followers/khairnarlokesh?color=0EA5E9&style=flat-square" />
 </p>
-
 
 ---
 
@@ -46,9 +55,7 @@
 ### 🔥 My Competitive Coding Progress
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" />
-
+  <img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" />
 </div>
 
 ---
@@ -59,8 +66,6 @@
 </p>
 
 ---
-
-
 
 # 📜 Inspirational Quote  
 <div align="center">
