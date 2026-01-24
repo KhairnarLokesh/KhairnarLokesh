@@ -9,16 +9,6 @@
 </p>
 
 <!-- Music Section -->
-<h2 align="center">🎧 Coding Vibes</h2>
-
-<p align="center">
-  <iframe style="border-radius:12px"
-    src="https://open.spotify.com/embed/track/TRACK_ID"
-    width="80%" height="152"
-    frameBorder="0"
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-  </iframe>
-</p>
 
 <!-- Badges -->
 <p align="center">
