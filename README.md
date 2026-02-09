@@ -18,13 +18,39 @@
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently learning **MERN Stack & DSA**  
-- 💬 Ask me about **Java, JavaScript, HTML, CSS**  
-- 📬 Reach me at **lkhairnar580@gmail.com**  
-- 🎯 Goal: Become a **Full Stack Developer**  
+## 👨‍💻 About Me
+
+I’m a passionate Full Stack Developer focused on building scalable web applications using the MERN stack.  
+Currently sharpening my Data Structures & Algorithms skills for product-based companies.
+
+- 💻 250+ DSA problems solved  
+- 🚀 Built full-stack projects deployed on Vercel  
+
 
 ---
+
+## 🚀 Featured Projects
+
+### 🧾 Paylance – Personal Finance & Budget Tracker *(Currently Building)*  
+🔗 Live: https://paylanceforyou.vercel.app/  
+⚙️ Tech Stack: React, Node.js, Express.js, MongoDB  
+📌 Description:
+- Track daily expenses and income  
+- Monthly budget planning  
+- Clean and responsive dashboard  
+- Deployed on Vercel  
+
+🚧 Status: **Actively under development**
+
+---
+
+### 🤖 HackMate AI – AI-Powered Coding Assistant  
+⚙️ Tech Stack: Next.js,Gemini API,  
+📌 Description:
+- Helps users with coding doubts and explanations  
+- Generates optimized code solutions  
+- Beginner-friendly AI assistance for DSA & development  
+
 
 ## 🌐 Connect with Me  
 <p align="left">
