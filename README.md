@@ -31,14 +31,8 @@ Currently sharpening my Data Structures & Algorithms skills for product-based co
 
 ## 🚀 Featured Projects
 
-### 🧾 Paylance – Personal Finance & Budget Tracker *(Currently Building)*  
+### 🧾 Paylance  *(Currently Building)*  
 🔗 Live: https://paylanceforyou.vercel.app/  
-⚙️ Tech Stack: React, Node.js, Express.js, MongoDB  
-📌 Description:
-- Track daily expenses and income  
-- Monthly budget planning  
-- Clean and responsive dashboard  
-- Deployed on Vercel  
 
 🚧 Status: **Actively under development**
 
@@ -82,27 +76,14 @@ Currently sharpening my Data Structures & Algorithms skills for product-based co
 </p>
 
 ---
+---
 
-# 📜 Inspirational Quote  
-<div align="center">
+## 💡 Daily Inspiration
 
-<table>
-  <tr>
-    <td align="center" style="
-        background: linear-gradient(135deg, #0ea5e9, #4c8eda);
-        padding: 20px;
-        border-radius: 12px;
-        color: white;
-        font-size: 18px;
-        font-weight: 600;">
-      “In the middle of difficulty lies opportunity.”  
-      <br/>— Albert Einstein
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
 
 ---
 
-### ⭐ If you like this profile, consider giving a star to my repositories!
+
