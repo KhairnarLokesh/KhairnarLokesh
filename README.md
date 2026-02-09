@@ -70,6 +70,16 @@ Currently sharpening my Data Structures & Algorithms skills for product-based co
 
 ---
 
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khairnarlokesh/khairnarlokesh/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ## 🛠️ Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,react,nodejs,express,mongodb,mysql,bootstrap" />
