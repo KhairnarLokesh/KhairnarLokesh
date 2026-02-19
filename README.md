@@ -22,7 +22,7 @@
 
 I am a passionate and self-driven Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable, responsive, and user-centric web applications that solve real-world problems. My focus lies in writing clean, maintainable code and designing systems that are both efficient and performance-optimized.
 
-Currently, I am strengthening my foundation in Data Structures and Algorithms using Java and C++, consistently solving problems to improve logical thinking and problem-solving ability. I believe strong fundamentals combined with practical project experience create a powerful engineering mindset.
+Currently, I am strengthening my foundation in Data Structures and Algorithms using Java consistently solving problems to improve logical thinking and problem-solving ability. I believe strong fundamentals combined with practical project experience create a powerful engineering mindset.
 
 I have built and deployed full-stack applications, integrating REST APIs, authentication systems, database design, and responsive UI/UX. I am comfortable working with version control systems like Git and collaborating using GitHub.
 
@@ -54,7 +54,7 @@ I am actively seeking opportunities where I can contribute, learn from experienc
 
 ## 🚀 Featured Projects
 
-### 🧾 Paylance  *(Currently Building)*  
+### 🧾 Paylance  
 🔗 Live: https://paylanceforyou.vercel.app/  
 
 🚧 Status: **Actively under development**
@@ -62,6 +62,7 @@ I am actively seeking opportunities where I can contribute, learn from experienc
 ---
 
 ### 🤖 HackMate AI – AI-Powered Coding Assistant  
+🔗 Live:https://hackmate-ai.vercel.app/
 ⚙️ Tech Stack: Next.js,Gemini API,  
 📌 Description:
 - Helps users with coding doubts and explanations  
