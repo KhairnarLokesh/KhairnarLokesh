@@ -18,16 +18,39 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-I’m a passionate Full Stack Developer focused on building scalable web applications using the MERN stack.  
-Currently sharpening my Data Structures & Algorithms skills for product-based companies.
+I am a passionate and self-driven Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable, responsive, and user-centric web applications that solve real-world problems. My focus lies in writing clean, maintainable code and designing systems that are both efficient and performance-optimized.
 
-- 💻 250+ DSA problems solved  
-- 🚀 Built full-stack projects deployed on Vercel  
+Currently, I am strengthening my foundation in Data Structures and Algorithms using Java and C++, consistently solving problems to improve logical thinking and problem-solving ability. I believe strong fundamentals combined with practical project experience create a powerful engineering mindset.
 
+I have built and deployed full-stack applications, integrating REST APIs, authentication systems, database design, and responsive UI/UX. I am comfortable working with version control systems like Git and collaborating using GitHub.
 
----
+Beyond coding, I am deeply interested in system design concepts, backend architecture, and understanding how scalable applications are engineered in real-world environments.
+
+What Drives Me:
+
+Writing optimized and efficient code
+
+Continuously improving through daily consistency
+
+Building real-world projects rather than just tutorials
+
+Preparing rigorously for product-based company placements
+
+Technical Focus:
+
+💻 MERN Stack Development
+
+📊 Data Structures & Algorithms
+
+🚀 Backend Development & API Design
+
+🗄 Database Modeling
+
+🔧 Problem Solving & Debugging
+
+I am actively seeking opportunities where I can contribute, learn from experienced engineers, and grow into a strong software developer capable of building impactful and scalable systems.
 
 ## 🚀 Featured Projects
 
