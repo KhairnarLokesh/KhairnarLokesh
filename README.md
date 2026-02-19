@@ -72,7 +72,21 @@ Currently sharpening my Data Structures & Algorithms skills for product-based co
 
 
 ---
->
+
+---
+
+# 📊 GitHub Stats  
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khairnarlokesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khairnarlokesh&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
 
 
 ## 🛠️ Languages & Tools  
