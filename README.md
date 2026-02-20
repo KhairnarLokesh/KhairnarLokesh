@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=2000&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines=Hi+👋%2C+I'm+Lokesh+Khairnar;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=2000&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)=Hi+👋%2C+I'm+Lokesh+Khairnar;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast" />
 </h1>
 
 <!-- Banner -->
