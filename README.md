@@ -75,15 +75,6 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 
 ---
 
-
-### Tech Stack
-
-Next.js
-Gemini API
-AI Integration
-
----
-
 # 🧩 LeetCode Stats
 
 <p align="center">
