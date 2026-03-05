@@ -38,6 +38,7 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 
 # 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel" />
+---
 
 # 🚀 Featured Projects
 
