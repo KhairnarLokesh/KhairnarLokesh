@@ -1,134 +1,169 @@
-<!-- Header -->
-<h1 align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=2000&pause=700&color=00C8FF&center=true&vCenter=true&width=650&lines](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)=Hi+👋%2C+I'm+Lokesh+Khairnar;MERN+Stack+Developer;Java+%7C+DSA+Enthusiast" />
-</h1>
+<!-- ================= HEADER ================= -->
 
-<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Lokesh Khairnar</h1>
+<h3 align="center">MERN Stack Developer | Java | DSA Enthusiast</h3>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-       alt="coding" 
-       width="600"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2000&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;DSA+Problem+Solver;Building+Scalable+Web+Applications"/>
 </p>
 
-<!-- Music Section -->
-
-<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khairnarlokesh&label=Profile+Views&color=0EA5E9&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/khairnarlokesh?color=0EA5E9&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=khairnarlokesh&label=Profile%20Views&color=0EA5E9&style=flat-square" />
+<img src="https://img.shields.io/github/followers/khairnarlokesh?style=flat-square&color=0EA5E9"/>
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
 </p>
 
 ---
 
-👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a passionate and self-driven Full Stack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable, responsive, and user-centric web applications that solve real-world problems. My focus lies in writing clean, maintainable code and designing systems that are both efficient and performance-optimized.
+I am a passionate **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy building scalable and user-centric web applications that solve real-world problems.
 
-Currently, I am strengthening my foundation in Data Structures and Algorithms using Java consistently solving problems to improve logical thinking and problem-solving ability. I believe strong fundamentals combined with practical project experience create a powerful engineering mindset.
+Currently, I am strengthening my **Data Structures and Algorithms using Java**, consistently solving coding problems to improve my logical thinking and problem-solving ability.
 
-I have built and deployed full-stack applications, integrating REST APIs, authentication systems, database design, and responsive UI/UX. I am comfortable working with version control systems like Git and collaborating using GitHub.
+I strongly believe that **strong fundamentals + real world projects = great software engineer**.
 
-Beyond coding, I am deeply interested in system design concepts, backend architecture, and understanding how scalable applications are engineered in real-world environments.
+### What Drives Me
 
-What Drives Me:
-
-Writing optimized and efficient code
-
-Continuously improving through daily consistency
-
-Building real-world projects rather than just tutorials
-
-Preparing rigorously for product-based company placements
-
-Technical Focus:
-
-💻 MERN Stack Development
-
-📊 Data Structures & Algorithms
-
-🚀 Backend Development & API Design
-
-🗄 Database Modeling
-
-🔧 Problem Solving & Debugging
-
-I am actively seeking opportunities where I can contribute, learn from experienced engineers, and grow into a strong software developer capable of building impactful and scalable systems.
-
-## 🚀 Featured Projects
-
-### 🧾 Paylance  
-🔗 Live: https://paylanceforyou.vercel.app/  
-
-🚧 Status: **Actively under development**
+* Writing optimized and maintainable code
+* Building real-world full stack projects
+* Improving problem solving through DSA
+* Learning backend architecture and system design
+* Preparing for product-based company placements
 
 ---
 
-### 🤖 HackMate AI – AI-Powered Coding Assistant  
-🔗 Live:https://hackmate-ai.vercel.app/
-⚙️ Tech Stack: Next.js,Gemini API,  
-📌 Description:
-- Helps users with coding doubts and explanations  
-- Generates optimized code solutions  
-- Beginner-friendly AI assistance for DSA & development  
+# 🛠️ Tech Stack
 
+### 💻 Languages
 
-## 🌐 Connect with Me  
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧾 Paylance – Expense & Budget Management Platform
+
+🔗 Live Project
+https://paylanceforyou.vercel.app/
+
+### Features
+
+* Track daily expenses
+* Manage monthly budgets
+* Clean dashboard UI
+* Responsive design
+
+### Tech Stack
+
+MERN Stack
+MongoDB • Express • React • Node.js
+
+---
+
+## 🤖 HackMate AI – AI Powered Coding Assistant
+
+🔗 Live Project
+https://hackmate-ai.vercel.app/
+
+### Features
+
+* Helps users solve coding problems
+* Generates optimized code solutions
+* Beginner friendly explanations
+* AI based developer assistant
+
+### Tech Stack
+
+Next.js
+Gemini API
+AI Integration
+
+---
+
+# 🧩 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=khairnarlokesh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=khairnarlokesh&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Coding Profiles
+
+* LeetCode: https://leetcode.com/lokesh__khairnar
+* GitHub: https://github.com/khairnarlokesh
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/lokesh-khairnar" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://leetcode.com/lokesh__khairnar" target="blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
-  </a>
-  <a href="mailto:lkhairnar580@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
+
+<a href="https://linkedin.com/in/lokesh-khairnar">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://leetcode.com/lokesh__khairnar">
+<img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+</a>
+
+<a href="mailto:lkhairnar580@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
 </p>
 
 ---
 
-# 🧩 LeetCode Stats  
-### 🔥 My Competitive Coding Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap" alt="leetcode stats" />
-</div>
-
----
-
-
----
-
----
-
-# 📊 GitHub Stats  
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khairnarlokesh&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=khairnarlokesh&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-
-
-## 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,react,nodejs,express,mongodb,mysql,bootstrap" />
-</p>
-
----
----
-
-## 💡 Daily Inspiration
+# 💡 Daily Inspiration
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
 
-
+⭐ From [Lokesh Khairnar](https://github.com/khairnarlokesh)
