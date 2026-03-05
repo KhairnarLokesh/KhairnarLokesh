@@ -37,38 +37,7 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 ---
 
 # 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,c,cpp" />
-</p>
-
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel" />
 
 # 🚀 Featured Projects
 
