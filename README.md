@@ -154,6 +154,14 @@ AI Integration
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
+<a href="https://lokeshkhairnar.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Lokesh681167">
+<img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
 </p>
 
 ---
