@@ -53,13 +53,13 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 
 ---
 
-## 🤖 HackMate AI – AI Powered Coding Assistant
+## 🤖 HackMate AI – AI Powered Project Assistant
 
 | Field           | Details                                                                                                                                                |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 🌐 Live Project | https://hackmate-ai.vercel.app/                                                                                                                        |
-| 🤖 Description  | AI assistant that helps developers understand coding problems and generate optimized solutions.                                                        |
-| ✨ Features      | • Helps users solve coding problems <br> • Generates optimized code solutions <br> • Beginner-friendly explanations <br> • AI-powered coding assistant |
+| 🤖 Description  | AI assistant that helps developers understand Project starting and generate optimized solutions.                                                        |
+| ✨ Features      | • Helps users for the project management <br> • Generates optimized solutions <br> • Beginner-friendly explanations <br> • AI-powered  assistant |
 | ⚙️ Tech Stack   | Next.js • Gemini API • Firebase                                                                                                                        |
 
 ---
