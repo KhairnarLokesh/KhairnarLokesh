@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <p align="center">
-  <img src="https://gemini.google.com/share/9f3bbc754958
+  <img src="[https://gemini.google.com/share/9f3bbc754958](https://github.com/KhairnarLokesh/KhairnarLokesh/blob/main/Gemini_Generated_Image_nhim9inhim9inhim.png?raw=true)
 " alt="Lokesh Khairnar Banner" width="100%">
 </p>
 
