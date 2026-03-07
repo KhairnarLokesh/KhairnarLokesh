@@ -34,7 +34,7 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
 | **🧾 Paylance** | A freelancing platform where clients can post projects and freelancers can apply and submit work. | **Next.js, MongoDB, REST APIs** | [🌐 Live](https://paylanceforyou.vercel.app/) |
-| **🤖 HackMate AI** | AI assistant that helps developers understand project starts and generates optimized solutions. | **Next.js, Gemini API, Firebase** | [🌐 Live](https://hackmate-ai.vercel.app/) |
+| **🤖 HackMate AI** | AI assistant that helps developers understand project starts and generates optimized solutions. | **Next.js, Gemini API, Firebase** | [🌐 Live](https://hact-mate-ai-y81o.vercel.app/) |
 | **💬 Chugli** | Hyperlocal chat platform where users within a 5 km radius can join rooms and interact in real-time. | **MERN Stack, WebSockets** | [🌐 Live](https://friends-chugli.vercel.app/) |
 
 # 🧩 LeetCode Stats
