@@ -1,5 +1,10 @@
 <!-- ================= HEADER ================= -->
 
+<p align="center">
+  <img src="![Uploading Gemini_Generated_Image_nhim9inhim9inhim.png…]()
+" alt="Lokesh Khairnar Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Lokesh Khairnar</h1>
 <h3 align="center">MERN Stack Developer | Java | DSA Enthusiast</h3>
 
