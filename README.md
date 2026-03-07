@@ -3,21 +3,7 @@
   <img src="https://github.com/KhairnarLokesh/KhairnarLokesh/blob/main/Gemini_Generated_Image_nhim9inhim9inhim.png?raw=true" alt="Lokesh Khairnar Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Lokesh Khairnar</h1>
-<h3 align="center">MERN Stack Developer | Java | DSA Enthusiast</h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&duration=2000&pause=800&color=00C8FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;DSA+Problem+Solver;Building+Scalable+Web+Applications"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=khairnarlokesh&label=Profile%20Views&color=0EA5E9&style=flat-square" />
-<img src="https://img.shields.io/github/followers/khairnarlokesh?style=flat-square&color=0EA5E9"/>
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
-</p>
 
 ---
 
