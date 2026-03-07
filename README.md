@@ -31,38 +31,11 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 
 # 🚀 Featured Projects
 
-## 🧾 Paylance – Freelancing Platform
-
-| Field           | Details                                                                                                                      |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 Live Project | https://paylanceforyou.vercel.app/                                                                                           |
-| 🧾 Description  | A freelancing platform where clients can post projects and freelancers can apply for them and submit completed work.         |
-| ✨ Features      | • Clients can post projects <br> • Freelancers can apply for projects <br> • Project submission system <br> • User dashboard |
-| ⚙️ Tech Stack   | Next.js • MongoDB • REST APIs                                                                                                |
-
----
-
-## 🤖 HackMate AI – AI Powered Project Assistant
-
-| Field           | Details                                                                                                                                                |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🌐 Live Project | https://hackmate-ai.vercel.app/                                                                                                                        |
-| 🤖 Description  | AI assistant that helps developers understand Project starting and generate optimized solutions.                                                        |
-| ✨ Features      | • Helps users for the project management <br> • Generates optimized solutions <br> • Beginner-friendly explanations <br> • AI-powered  assistant |
-| ⚙️ Tech Stack   | Next.js • Gemini API • Firebase                                                                                                                        |
-
----
-
-## 💬 Chugli – Hyperlocal Chat Platform
-
-| Field           | Details                                                                                                                          |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 Live Project | https://chugli-friends.vercel.app/                                                                                               |
-| 🧾 Description  | A hyperlocal chat platform where users within a 5 km radius can join chat rooms and interact with nearby people.                 |
-| ✨ Features      | • Location-based chat rooms <br> • Join chats within a 5 km radius <br> • Real-time messaging <br> • Community-based discussions |
-| ⚙️ Tech Stack   | MERN Stack • WebSockets / Real-time communication                                                                                |
-
----
+| Project Name | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🧾 Paylance** | Freelancing platform where clients post projects and freelancers apply/submit work. | **Next.js, MongoDB, REST APIs** | [🌐 Live](https://paylanceforyou.vercel.app/) |
+| **🤖 HackMate AI** | AI assistant helping developers understand projects and generate optimized solutions. | **Next.js, Gemini API, Firebase** | [🌐 Live](https://hackmate-ai.vercel.app/) |
+| **💬 Chugli** | Hyperlocal chat platform for real-time interaction within a 5km radius. | **MERN Stack, WebSockets** | [🌐 Live](https://chugli-friends.vercel.app/) |
 
 # 🧩 LeetCode Stats
 
