@@ -8,7 +8,7 @@
 ----
 
 # 👨‍💻 About Me
-
+# Rank 15 in Open Source Connect Global
 I am a passionate **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy building scalable and user-centric web applications that solve real-world problems.
 
 Currently, I am strengthening my **Data Structures and Algorithms using Java**, consistently solving coding problems to improve my logical thinking and problem-solving ability.
