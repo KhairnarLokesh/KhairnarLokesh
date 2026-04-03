@@ -3,41 +3,59 @@
   <img src="https://github.com/KhairnarLokesh/KhairnarLokesh/blob/main/Gemini_Generated_Image_nhim9inhim9inhim.png?raw=true" alt="Lokesh Khairnar Banner" width="100%">
 </p>
 
+---
 
+<h1 align="center">Hi 👋, I'm Lokesh Khairnar</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
 
-----
+---
 
 # 👨‍💻 About Me
-# Rank 15 in Open Source Connect Global
-I am a passionate **Full Stack Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**. I enjoy building scalable and user-centric web applications that solve real-world problems.
 
-Currently, I am strengthening my **Data Structures and Algorithms using Java**, consistently solving coding problems to improve my logical thinking and problem-solving ability.
+- 🚀 Passionate **Full Stack Developer** specializing in **MERN Stack**
+- 🧠 Strong focus on **Data Structures & Algorithms (Java)**
+- 💡 Love building **real-world scalable applications**
+- 🎯 Preparing for **product-based company placements**
+- 📈 Believer of:  
+  **"Strong Fundamentals + Real World Projects = Great Engineer"**
 
-I strongly believe that **strong fundamentals + real world projects = great software engineer**.
+---
 
-### What Drives Me
+# 🏆 Achievements
 
-* Writing optimized and maintainable code
-* Building real-world full stack projects
-* Improving problem solving through DSA
-* Learning backend architecture and system design
-* Preparing for product-based company placements
+✨ Highlighting my key milestones:
+
+- 🥇 **Hack AI-thon Winner**  
+  Built an innovative AI-powered solution competing with top developers
+
+- 🌍 **Rank 15 – Open Source Connect Global**  
+  Recognized globally for impactful open-source contributions
+
+- 💡 Active problem solver on **LeetCode**
+
+- 🚀 Developed multiple **production-ready full stack projects**
 
 ---
 
 # 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel" />
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel" />
+</p>
+
+---
 
 # 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🧾 Paylance** | A freelancing platform where clients can post projects and freelancers can apply and submit work. | **Next.js, MongoDB, REST APIs** | [🌐 Live](https://paylanceforyou.vercel.app/) |
-| **🤖 HackMate AI** | AI assistant that helps developers understand project starts and generates optimized solutions. | **Next.js, Gemini API, Firebase** | [🌐 Live](https://hact-mate-ai-y81o.vercel.app/) |
-| **💬 Chugli** | Hyperlocal chat platform where users within a 5 km radius can join rooms and interact in real-time. | **MERN Stack, WebSockets** | [🌐 Live](https://friends-chugli.vercel.app/) |
+| Project | Description | Tech Stack | Link |
+|--------|------------|-----------|------|
+| 🧾 **Paylance** | Freelancing platform connecting clients & developers | Next.js, MongoDB, REST APIs | [Live](https://paylanceforyou.vercel.app/) |
+| 🤖 **HackMate AI** | AI assistant for developers to understand & optimize code | Next.js, Gemini API, Firebase | [Live](https://hact-mate-ai-y81o.vercel.app/) |
+| 💬 **Chugli** | Hyperlocal real-time chat platform (5km radius) | MERN, WebSockets | [Live](https://friends-chugli.vercel.app/) |
 
-# 🧩 LeetCode Stats
+---
+
+# 📈 LeetCode Stats
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap"/>
@@ -45,12 +63,19 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 
 ---
 
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khairnarlokesh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairnarlokesh&theme=tokyonight" />
+</p>
 
-# 📈 Coding Profiles
+---
 
-* LeetCode: https://leetcode.com/lokesh__khairnar
-* GitHub: https://github.com/khairnarlokesh
+# 🧩 Coding Profiles
+
+- 🔗 LeetCode: https://leetcode.com/lokesh__khairnar  
+- 🔗 GitHub: https://github.com/khairnarlokesh  
 
 ---
 
@@ -90,4 +115,4 @@ I strongly believe that **strong fundamentals + real world projects = great soft
 
 ---
 
-⭐ From [Lokesh Khairnar](https://github.com/khairnarlokesh)
+<h3 align="center">⭐ From Lokesh Khairnar — Keep Building, Keep Growing 🚀</h3>
