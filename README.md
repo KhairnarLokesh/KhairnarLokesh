@@ -12,12 +12,7 @@
 
 # 👨‍💻 About Me
 
-- 🚀 Passionate **Full Stack Developer** specializing in **MERN Stack**
-- 🧠 Strong focus on **Data Structures & Algorithms (Java)**
-- 💡 Love building **real-world scalable applications**
-- 🎯 Preparing for **product-based company placements**
-- 📈 Believer of:  
-  **"Strong Fundamentals + Real World Projects = Great Engineer"**
+I am a passionate and driven Full Stack Developer with a strong focus on building scalable and user-centric web applications using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I enjoy transforming ideas into real-world solutions and have worked on multiple projects that solve practical problems, such as freelancing platforms, AI-powered developer assistants, and real-time communication systems. Alongside development, I am actively strengthening my foundation in Data Structures and Algorithms using Java, consistently solving problems to enhance my logical thinking and coding efficiency. I have been recognized globally with a Rank 15 in Open Source Connect Global and have also achieved the title of Hack AI-thon Winner, reflecting my ability to innovate and compete at a high level. I strongly believe that a combination of solid fundamentals, hands-on project experience, and continuous learning is the key to becoming a great software engineer. Currently, I am focused on improving my backend architecture skills, exploring system design concepts, and preparing for opportunities in product-based companies where I can contribute, learn, and grow as a developer.
 
 ---
 
