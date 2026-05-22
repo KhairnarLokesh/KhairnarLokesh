@@ -27,15 +27,6 @@ I’ve been:
 
 These achievements reflect my ability to **innovate quickly, collaborate effectively, and build impactful solutions under pressure**.
 
-Currently, I’m:
-
-- 🏗️ Learning **backend architecture & system design**
-- 🤖 Exploring **LLM applications & AI engineering**
-- 📚 Preparing for **product-based company roles**
-- 🚀 Building scalable projects focused on **performance, AI integration, and real-world impact**
-
-I strongly believe a mix of **solid fundamentals**, **hands-on projects**, and **continuous learning** is the key to becoming a great software engineer.
-
 ---
 
 # 🏆 Achievements
