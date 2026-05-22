@@ -1,33 +1,38 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="[github.com](https://github.com/KhairnarLokesh/KhairnarLokesh/blob/main/Gemini_Generated_Image_nhim9inhim9inhim.png?raw=true)" alt="Lokesh Khairnar Banner" width="100%">
+  <img src="https://github.com/KhairnarLokesh/KhairnarLokesh/blob/main/Gemini_Generated_Image_nhim9inhim9inhim.png?raw=true" alt="Lokesh Khairnar Banner" width="100%">
 </p>
 
 ---
 
 <h1 align="center">Hi 👋, I'm Lokesh Khairnar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | DSA Enthusiast</h3>
+<h3 align="center">Full Stack & AI Developer | React, Python, LangChain & Local LLM Applications</h3>
 
 ---
 
 # 👨‍💻 About Me
 
-I’m a passionate **Full Stack Developer** focused on building **scalable, reliable, and user-centric web applications**, primarily using the **MERN / Next.js ecosystem**.
+I’m a passionate **Full Stack & AI Developer** focused on building **scalable, AI-powered, and user-centric applications** using modern web technologies and LLM integrations.
 
-I love turning ideas into **real-world products**—from freelancing platforms and AI-powered developer tools to real-time communication systems. Alongside development, I’m consistently sharpening my **Data Structures & Algorithms** skills in **Java**, solving problems to improve my problem-solving mindset and coding efficiency.
+I enjoy turning ideas into **real-world products** — from freelancing platforms and AI-powered developer tools to real-time communication systems and code intelligence platforms.
+
+My primary stack includes **React, Next.js, Python, LangChain, Firebase, and Local LLMs**. I love building applications that combine strong frontend experiences with intelligent AI capabilities.
+
+Alongside development, I’m consistently sharpening my **Data Structures & Algorithms** skills in **Java**, improving my problem-solving mindset and coding efficiency.
 
 I’ve been:
 
 - 🥇 **Hack AI-thon Winner**
 - 🌍 **Rank 15 – Open Source Connect Global**
 
-These achievements reflect my ability to **innovate fast, collaborate effectively, and compete at a global level**.
+These achievements reflect my ability to **innovate quickly, collaborate effectively, and build impactful solutions under pressure**.
 
 Currently, I’m:
 
-- 🏗️ Deepening my understanding of **backend architecture & system design**
+- 🏗️ Learning **backend architecture & system design**
+- 🤖 Exploring **LLM applications & AI engineering**
 - 📚 Preparing for **product-based company roles**
-- 🚀 Building projects that focus on **performance, scalability, and real-world impact**
+- 🚀 Building scalable projects focused on **performance, AI integration, and real-world impact**
 
 I strongly believe a mix of **solid fundamentals**, **hands-on projects**, and **continuous learning** is the key to becoming a great software engineer.
 
@@ -49,15 +54,15 @@ I strongly believe a mix of **solid fundamentals**, **hands-on projects**, and *
 - 💡 **Active Problem Solver on LeetCode**  
   Regularly solving DSA problems to sharpen problem-solving skills
 
-- 🚀 **Multiple Production-Ready Full Stack Projects**  
-  Deployed and maintained real-world applications used by actual users
+- 🚀 **Multiple Production-Ready Full Stack & AI Projects**  
+  Built and deployed applications used by real users
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=java,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel)" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nextjs,nodejs,express,mongodb,firebase,git,github,postman,vscode,vercel" />
 </p>
 
 ---
@@ -69,16 +74,16 @@ I strongly believe a mix of **solid fundamentals**, **hands-on projects**, and *
 | 🧾 **Paylance** | Freelancing platform connecting clients & developers with secure workflows and profiles | Next.js, MongoDB, REST APIs, Auth | [Live](https://paylanceforyou.vercel.app/) |
 | 🤖 **HackMate AI** | AI assistant for developers to understand, debug & optimize code faster | Next.js, Gemini API, Firebase, Tailwind CSS | [Live](https://hact-mate-ai-y81o.vercel.app/) |
 | 💬 **Chugli** | Hyperlocal real-time chat platform limited to a 5km radius for nearby conversations | MERN, WebSockets, JWT Auth | [Live](https://friends-chugli.vercel.app/) |
-| 🧠 **CodePlus AI** | AI-powered coding assistant that helps generate, refactor & explain code for developers | React / Next.js, Node.js, AI APIs, MongoDB | [Repo](https://github.com/KhairnarLokesh/CodePlus-AI) |
-| ⚙️ **DevInit** | Developer onboarding & project setup accelerator to quickly scaffold and initialize dev environments | Node.js, CLI Tools, Templates, Git | [Repo](https://github.com/KhairnarLokesh/DevInit) |
-| 👁️ **CodeVision** | Tool to visualize and better understand code structure, flow, and relationships | React, Node.js, APIs, Visualization Libraries | [Repo](https://github.com/KhairnarLokesh/codevision) |
+| 🧠 **CodePlus AI** | AI-powered coding assistant that helps developers generate, explain, refactor, and debug code using locally running LLMs for faster and privacy-focused development | React, Python, LangChain, Local LLMs, Firebase | [Repo](https://github.com/KhairnarLokesh/CodePlus-AI) |
+| ⚙️ **DevInit** | Developer onboarding & project setup accelerator to quickly scaffold and initialize developer environments | Node.js, CLI Tools, Templates, Git | [Repo](https://github.com/KhairnarLokesh/DevInit) |
+| 👁️ **CodeVision** | AI-based code visualization platform that analyzes code structure and logic flow using local language models to improve project understanding and developer productivity | React, Python, LangChain, Local LLMs, Firebase, Visualization Libraries | [Repo](https://github.com/KhairnarLokesh/codevision) |
 
 ---
 
 # 📈 LeetCode Stats
 
 <p align="center">
-  <img src="[leetcard.jacoblin.cool](https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap)"/>
+  <img src="https://leetcard.jacoblin.cool/lokesh__khairnar?theme=dark&font=Baloo&ext=heatmap"/>
 </p>
 
 ---
@@ -86,16 +91,16 @@ I strongly believe a mix of **solid fundamentals**, **hands-on projects**, and *
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api?username=khairnarlokesh&show_icons=true&theme=tokyonight)" />
-  <img src="[github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com/?user=khairnarlokesh&theme=tokyonight)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khairnarlokesh&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairnarlokesh&theme=tokyonight" />
 </p>
 
 ---
 
 # 🧩 Coding Profiles
 
-- 🔗 **LeetCode:** [leetcode.com](https://leetcode.com/lokesh__khairnar)  
-- 🔗 **GitHub:** [github.com](https://github.com/khairnarlokesh)  
+- 🔗 **LeetCode:** https://leetcode.com/lokesh__khairnar  
+- 🔗 **GitHub:** https://github.com/khairnarlokesh  
 
 ---
 
@@ -103,24 +108,24 @@ I strongly believe a mix of **solid fundamentals**, **hands-on projects**, and *
 
 <p align="left">
 
-<a href="[linkedin.com](https://linkedin.com/in/lokesh-khairnar)">
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=linkedin)" height="40"/>
+<a href="https://linkedin.com/in/lokesh-khairnar">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="[leetcode.com](https://leetcode.com/lokesh__khairnar)">
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=leetcode)" height="40"/>
+<a href="https://leetcode.com/lokesh__khairnar">
+  <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
 </a>
 
 <a href="mailto:lkhairnar580@gmail.com">
-  <img src="[skillicons.dev](https://skillicons.dev/icons?i=gmail)" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
-<a href="[lokeshkhairnar.vercel.app](https://lokeshkhairnar.vercel.app/)">
-  <img src="[img.shields.io](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)"/>
+<a href="https://lokeshkhairnar.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
-<a href="[x.com](https://x.com/Lokesh681167)">
-  <img src="[img.shields.io](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white)"/>
+<a href="https://x.com/Lokesh681167">
+  <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 </p>
@@ -130,7 +135,7 @@ I strongly believe a mix of **solid fundamentals**, **hands-on projects**, and *
 # 💡 Daily Inspiration
 
 <p align="center">
-  <img src="[quotes-github-readme.vercel.app](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
 ---
