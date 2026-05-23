@@ -24,6 +24,7 @@ I’ve been:
 
 - 🥇 **Hack AI-thon Winner**
 - 🌍 **Rank 15 – Open Source Connect Global**
+- 🥈 **Runner-up – UpxGen Hackathon**
 
 These achievements reflect my ability to **innovate quickly, collaborate effectively, and build impactful solutions under pressure**.
 
