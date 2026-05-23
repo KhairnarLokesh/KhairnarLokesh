@@ -34,7 +34,7 @@ These achievements reflect my ability to **innovate quickly, collaborate effecti
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚀 **HackMate AI (App Version)** | Building the application version of HackMate AI — an AI-powered hackathon co-pilot that helps teams with project planning, task breakdown, technical guidance, and faster development workflows | Next.js, Firebase, Gemini API, AI Agents |
+| 🚀 **HackMate AI (App Version)** | Building the application version of HackMate AI — an AI-powered hackathon co-pilot that helps teams with project planning, task breakdown, technical guidance, and faster development workflows | React-native, Firebase, Gemini API, AI Agents |
 | 🧩 **Compact Chrome Extension** | Developing an AI-powered Chrome extension that provides intelligent code review, debugging assistance, and productivity features directly inside the browser for developers | React, Chrome Extension APIs, Local LLMs, Python |
 
 
