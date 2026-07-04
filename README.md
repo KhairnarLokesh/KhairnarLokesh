@@ -2,7 +2,6 @@
 
 | Project                         | Description                                                                                                                                                                                | Tech Stack                                       |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-|**HackMate AI (Mobile App)** | Building the mobile version of HackMate AI, an AI-powered hackathon co-pilot that helps teams with project planning, task breakdown, technical guidance, and faster development workflows. | React Native, Firebase, Gemini API, AI Agents    |
 |**Compact Chrome Extension** | Developing an AI-powered Chrome extension that provides intelligent code review, debugging assistance, and developer productivity features directly inside the browser.                    | React, Chrome Extension APIs, Python, Local LLMs |
 
 ---
