@@ -79,7 +79,7 @@
 </tr>
 </table>
 
-<p align="align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/lokesh-khairnar" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
