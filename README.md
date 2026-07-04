@@ -79,6 +79,20 @@
 </tr>
 </table>
 
+<p align="left">
+
+<a href="https://linkedin.com/in/lokesh-khairnar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:lkhairnar580@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://lokeshkhairnar.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
 
 # 🏆 Achievements
 
