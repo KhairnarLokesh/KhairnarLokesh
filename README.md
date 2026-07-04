@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/readme.jpg" alt="Lokesh Khairnar Banner" width="100%">
+</p>
+
 ## 🚀 Currently Working On
 
 | Project                         | Description                                                                                                                                                                                | Tech Stack                                       |
