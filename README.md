@@ -6,7 +6,7 @@
 
 | Project                         | Description                                                                                                                                                                                | Tech Stack                                       |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-|**Compact Chrome Extension** | Developing an AI-powered Chrome extension that provides intelligent code review, debugging assistance, and developer productivity features directly inside the browser.                    | React, Chrome Extension APIs, Python, Local LLMs |
+|**Compact Chrome Extension** | Developing an AI-powered Chrome extension that provides intelligent code review, debugging assistance, and developer productivity features directly inside the browser.                    | JavaScript, Node.js, Firebase, Chrome Extension APIs, Local LLMs |
 
 ---
 
@@ -15,7 +15,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Compact** | AI-powered Chrome extension that performs intelligent code reviews, detects potential issues, provides debugging assistance, and leverages Local LLMs to help developers write better code while keeping everything privacy-focused. | JavaScript, Node.js, Python, Firebase, Chrome Extension APIs, Local LLMs | [Repository](https://github.com/KhairnarLokesh/Compact) |
+| **Compact** | AI-powered Chrome extension that performs intelligent code reviews, detects potential issues, provides debugging assistance, and leverages Local LLMs to help developers write better code while keeping everything privacy-focused. | JavaScript, Node.js, Firebase, Chrome Extension APIs, Local LLMs | [Repository](https://github.com/KhairnarLokesh/Compact) |
 | **HackMate AI** | AI-powered hackathon co-pilot that helps developers with project planning, task breakdown, technical guidance, code generation, and faster development workflows. | Next.js, Gemini API, Firebase, Tailwind CSS | [Live](https://hact-mate-ai-y81o.vercel.app/) |
 | **DevInit** | Developer onboarding and project setup accelerator that quickly scaffolds applications, configures development environments, and streamlines project initialization. | Node.js, CLI Tools, Templates, Git | [Repository](https://github.com/KhairnarLokesh/DevInit) |
 | **Paylance** | Full-stack freelancing platform connecting clients and developers with secure authentication, project management, and seamless collaboration. | Next.js, MongoDB, REST APIs, Authentication | [Live](https://paylanceforyou.vercel.app/) |
